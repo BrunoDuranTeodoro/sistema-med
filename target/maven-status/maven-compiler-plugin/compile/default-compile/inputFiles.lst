@@ -1,0 +1,8 @@
+/Users/brunoduran/Documents/Programação/java/sistema-med/src/main/java/com/medpro/medpro/MedproApplication.java
+/Users/brunoduran/Documents/Programação/java/sistema-med/src/main/java/com/medpro/medpro/controller/MedicoController.java
+/Users/brunoduran/Documents/Programação/java/sistema-med/src/main/java/com/medpro/medpro/controller/PacienteController.java
+/Users/brunoduran/Documents/Programação/java/sistema-med/src/main/java/com/medpro/medpro/enums/DadosEndereco.java
+/Users/brunoduran/Documents/Programação/java/sistema-med/src/main/java/com/medpro/medpro/enums/Especialidade.java
+/Users/brunoduran/Documents/Programação/java/sistema-med/src/main/java/com/medpro/medpro/model/dto/DadosCadastroMedico.java
+/Users/brunoduran/Documents/Programação/java/sistema-med/src/main/java/com/medpro/medpro/model/dto/DadosCadastroPaciente.java
+/Users/brunoduran/Documents/Programação/java/sistema-med/src/main/java/com/medpro/medpro/model/entity/Medico.java
